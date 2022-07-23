@@ -1,8 +1,10 @@
 # WebFX Demos
 
+A space to host [WebFX][webfx-repo] demos.
+
 You will find all the demos presented on the [website][webfx-website], plus a couple of additional demos, with their live links and source codes.
 
-If you have another WebFX demo you would like to link here, you can contact us and we will add it to the list.
+If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact] and we will add it to the list.
 
 ## Website demos
 
@@ -34,13 +36,15 @@ If you have another WebFX demo you would like to link here, you can contact us a
 
 * [Mandelbrot][webfx-mandelbrot-demo-link] ([Github repository][webfx-mandelbrot-repo-link])
 
-## Other demos
+## Additional demos
 
 * [Medusa clock][webfx-medusaclock-demo-link] ([single source file][webfx-medusaclock-code-link] - [Github repository][webfx-medusaclock-repo-link])
 
 * [Responsive design][webfx-responsivedesign-demo-link] ([single source file][webfx-responsivedesign-code-link] - [Github repository][webfx-responsivedesign-repo-link])
 
+[webfx-repo]: https://github.com/webfx-project/webfx
 [webfx-website]: https://preview.webfx.dev
+[webfx-contact]: mailto:info@webfx.dev
 [webfx-colorfulcircles-demo-link]: https://colorfulcircles.webfx.dev
 [webfx-colorfulcircles-repo-link]: https://github.com/webfx-project/webfx-demo-colorfulcircles
 [webfx-colorfulcircles-code-link]: https://github.com/webfx-demos/webfx-demo-colorfulcircles/blob/main/webfx-demo-colorfulcircles-application/src/main/java/dev/webfx/demo/colorfulcircles/ColorfulCircles.java
