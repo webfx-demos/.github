@@ -1,46 +1,20 @@
 # WebFX Demos
 
-A space to host [WebFX][webfx-repo] demos.
+A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a couple of additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact] and we will add it to the list.
 
-You will find all the demos presented on the [website][webfx-website], plus a couple of additional demos, with their live links and source codes.
-
-If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact] and we will add it to the list.
-
-## Website demos
-
-### Basics
-
-* [Colorful circles][webfx-colorfulcircles-demo-link] ([single source file][webfx-colorfulcircles-code-link] - [Github repository][webfx-colorfulcircles-repo-link])
-
-* [Particles][webfx-particles-demo-link] ([single source file][webfx-particles-code-link] - [Github repository][webfx-particles-repo-link])
-
-### Custom controls
-
-* [Tally Counter][webfx-tallycounter-demo-link] ([single source file][webfx-tallycounter-code-link] - [Github repository][webfx-tallycounter-repo-link])
-
-* [Modern gauge][webfx-moderngauge-demo-link] ([single source file][webfx-moderngauge-code-link] - [Github repository][webfx-moderngauge-repo-link])
-
-* [Enzo clocks][webfx-enzoclocks-demo-link] ([Github repository][webfx-enzoclocks-repo-link])
-
-### Games
-
-* [FX2048][webfx-fx2048-demo-link] ([Github repository][webfx-fx2048-repo-link])
-
-* [SpaceFX][webfx-spacefx-demo-link] ([Github repository][webfx-spacefx-repo-link])
-
-### Web workers
-
-* [Ray tracer][webfx-raytracer-demo-link] ([Github repository][webfx-raytracer-repo-link])
-
-### WebAssembly
-
-* [Mandelbrot][webfx-mandelbrot-demo-link] ([Github repository][webfx-mandelbrot-repo-link])
-
-## Additional demos
-
-* [Medusa clock][webfx-medusaclock-demo-link] ([single source file][webfx-medusaclock-code-link] - [Github repository][webfx-medusaclock-repo-link])
-
-* [Responsive design][webfx-responsivedesign-demo-link] ([single source file][webfx-responsivedesign-code-link] - [Github repository][webfx-responsivedesign-repo-link])
+| Live Demo                                             | Category        | Java file                                     | Repository                                     | WebFX library                                                               | Credits                                                                   |
+|-------------------------------------------------------|-----------------|-----------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [Colorful circles](https://colorfulcircles.webfx.dev) | Basic           | [Java file][webfx-colorfulcircles-code-link]  | [Repository][webfx-colorfulcircles-repo-link]  |                                                                             | Oracle                                                                    |
+| [Particles][webfx-particles-demo-link]                | Basic           | [Java file][webfx-particles-code-link]        | [Repository][webfx-particles-repo-link]        |                                                                             | [Sketch.js](https://soulwire.github.io/sketch.js/examples/particles.html) |
+| [Tally Counter][webfx-tallycounter-demo-link]         | Custom controls | [Java file][webfx-tallycounter-code-link]     | [Repository][webfx-tallycounter-repo-link]     | [Odometer](https://github.com/webfx-libs/webfx-lib-odometer)                | [HanSolo](https://github.com/HanSolo/odometer)                            |
+| [Modern gauge][webfx-moderngauge-demo-link]           | Custom controls | [Java file][webfx-moderngauge-code-link]      | [Repository][webfx-moderngauge-repo-link]      | [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)                    | [HanSolo](https://github.com/HanSolo/Medusa)                              |
+| [Enzo clocks][webfx-enzoclocks-demo-link]             | Custom controls |                                               | [Repository][webfx-enzoclocks-repo-link]       | [Enzo](https://github.com/webfx-libs/webfx-lib-enzo)                        | [HanSolo](https://bitbucket.org/hansolo/enzo/src/master/)                 |
+| [FX2048][webfx-fx2048-demo-link]                      | Games           |                                               | [Repository][webfx-fx2048-repo-link]           |                                                                             | [Bruno Borges](https://github.com/brunoborges/fx2048)                     |                                                                           |
+| [SpaceFX][webfx-spacefx-demo-link]                    | Games           |                                               | [Repository][webfx-spacefx-repo-link]          |                                                                             | [HanSolo](https://github.com/HanSolo/SpaceFX)                             |
+| [Ray tracer][webfx-raytracer-demo-link]               | Web workers     |                                               | [Repository][webfx-raytracer-repo-link]        | [Tracer framework](https://github.com/webfx-libs/webfx-lib-tracerframework) |                                                                           |
+| [Mandelbrot][webfx-mandelbrot-demo-link]              | WebAssembly     |                                               | [Repository][webfx-mandelbrot-repo-link]       | [Tracer framework](https://github.com/webfx-libs/webfx-lib-tracerframework) |                                                                           |
+| [Medusa clock][webfx-medusaclock-demo-link]           | Addition        | [Java file][webfx-medusaclock-code-link]      | [Repository][webfx-medusaclock-repo-link]      | [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)                    | [HanSolo](https://github.com/HanSolo/Medusa)                              |                                                                           |
+| [Responsive design][webfx-responsivedesign-demo-link] | Addition        | [Java file][webfx-responsivedesign-code-link] | [Repository][webfx-responsivedesign-repo-link] |                                                                             |                                                                           |
 
 [webfx-repo]: https://github.com/webfx-project/webfx
 [webfx-website]: https://preview.webfx.dev
