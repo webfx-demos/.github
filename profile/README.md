@@ -2,6 +2,8 @@
 
 A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a couple of additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact] and we will add it to the list.
 
+<div align="center">
+
 | Live Demo                                             |     Category      |                 Java file *                  |                  Repository                   |                                WebFX library                                |                                                       Credits                                                       |
 |-------------------------------------------------------|:-----------------:|:--------------------------------------------:|:---------------------------------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
 | Website demos                                         |                   |                                              |                                               |                                                                             |                                                                                                                     |
@@ -17,6 +19,8 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 | Additional demos                                      |                   |                                              |                                               |                                                                             |                                                                                                                     |
 | [Medusa Clock][webfx-medusaclock-demo-link]           |  Custom controls  |   [Java file][webfx-medusaclock-code-link]   |   [Repository][webfx-medusaclock-repo-link]   |          [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)           |                                    [HanSolo](https://github.com/HanSolo/Medusa)                                     |                                                                           |
 | [Mostly Fluid][webfx-mostlyfluid-demo-link]           | Responsive design |   [Java file][webfx-mostlyfluid-code-link]   |   [Repository][webfx-mostlyfluid-repo-link]   |                                                                             | [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html) |
+
+</div>
 
 *\* for single file source code demos only*
 
