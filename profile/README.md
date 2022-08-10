@@ -19,6 +19,7 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 | Additional demos                                      |                   |                                              |                                               |                                                                             |                                                                                                                     |
 | [Medusa Clock][webfx-medusaclock-demo-link]           |  Custom controls  |   [Java file][webfx-medusaclock-code-link]   |   [Repository][webfx-medusaclock-repo-link]   |          [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)           |                                    [HanSolo](https://github.com/HanSolo/Medusa)                                     |                                                                           |
 | [Mostly Fluid][webfx-mostlyfluid-demo-link]           | Responsive design |   [Java file][webfx-mostlyfluid-code-link]   |   [Repository][webfx-mostlyfluid-repo-link]   |                                                                             | [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html) |
+| [Circles Packer][webfx-circlespacker-demo-link]       | Responsive design |  [Java file][webfx-circlespacker-code-link]  |  [Repository][webfx-circlespacker-repo-link]  |   [Circles Packer](https://github.com/webfx-libs/webfx-lib-circlespacker)   |                                                                                                                     |
 
 </div>
 
@@ -56,3 +57,6 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 [webfx-mostlyfluid-demo-link]: https://mostlyfluid.webfx.dev
 [webfx-mostlyfluid-repo-link]: https://github.com/webfx-demos/webfx-demo-mostlyfluid
 [webfx-mostlyfluid-code-link]: https://github.com/webfx-demos/webfx-demo-mostlyfluid/blob/main/webfx-demo-mostlyfluid-application/src/main/java/dev/webfx/demo/mostlyfluid/mostlyfluidApplication.java
+[webfx-circlespacker-demo-link]: https://circlespacker.webfx.dev
+[webfx-circlespacker-repo-link]: https://github.com/webfx-demos/webfx-demo-circlespacker
+[webfx-circlespacker-code-link]: https://github.com/webfx-demos/webfx-demo-circlespacker/blob/main/webfx-demo-circlespacker-application/src/main/java/dev/webfx/demo/circlespacker/CirclesPackerApplication.java
