@@ -1,6 +1,6 @@
 # WebFX Demos
 
-A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a couple of additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
+A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a few additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
 
 <div align="center">
 
