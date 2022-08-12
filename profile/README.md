@@ -19,11 +19,10 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 | Additional demos                                      |                   |                                                |                                               |                                                                             |                                                                                                                     |
 | [Medusa Clock][webfx-medusaclock-demo-link]           |  Custom controls  |   [Java file ⭐][webfx-medusaclock-code-link]   |   [Repository][webfx-medusaclock-repo-link]   |          [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)           |                                    [HanSolo](https://github.com/HanSolo/Medusa)                                     |                                                  
 | [Bound Gauge][webfx-boundgauge-demo-link]             |     Bindings      |   [Java file ⭐][webfx-boundgauge-code-link]    |   [Repository][webfx-boundgauge-repo-link]    |          [Medusa](https://github.com/webfx-libs/webfx-lib-medusa)           |                                    [HanSolo](https://github.com/HanSolo/Medusa)                                     |                                                  
-|
-|
 | [Mostly Fluid][webfx-mostlyfluid-demo-link]           | Responsive design |   [Java file ⭐][webfx-mostlyfluid-code-link]   |   [Repository][webfx-mostlyfluid-repo-link]   |                                                                             | [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html) |
 | [Circles Packer][webfx-circlespacker-demo-link]       | Responsive design |  [Java file ⭐][webfx-circlespacker-code-link]  |  [Repository][webfx-circlespacker-repo-link]  |   [Circles Packer](https://github.com/webfx-libs/webfx-lib-circlespacker)   |                                                                                                                     |
-*⭐️ Single source file code demo*
+
+  *⭐️ Single source file code demo*
 
 </div>
 
