@@ -68,7 +68,7 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 [webfx-boundgauge-code-link]: https://github.com/webfx-demos/webfx-demo-boundgauge/blob/main/webfx-demo-boundgauge-application/src/main/java/dev/webfx/demo/boundgauge/BoundGaugeApplication.java
 [webfx-mostlyfluid-demo-link]: https://mostlyfluid.webfx.dev
 [webfx-mostlyfluid-repo-link]: https://github.com/webfx-demos/webfx-demo-mostlyfluid
-[webfx-mostlyfluid-code-link]: https://github.com/webfx-demos/webfx-demo-mostlyfluid/blob/main/webfx-demo-mostlyfluid-application/src/main/java/dev/webfx/demo/mostlyfluid/mostlyfluidApplication.java
+[webfx-mostlyfluid-code-link]: https://github.com/webfx-demos/webfx-demo-mostlyfluid/blob/main/webfx-demo-mostlyfluid-application/src/main/java/dev/webfx/demo/mostlyfluid/MostlyFluidApplication.java
 [webfx-ledclock-demo-link]: https://ledclock.webfx.dev
 [webfx-ledclock-repo-link]: https://github.com/webfx-demos/webfx-demo-ledclock
 [webfx-ledclock-code-link]: https://github.com/webfx-demos/webfx-demo-ledclock/blob/main/webfx-demo-ledclock-application/src/main/java/dev/webfx/demo/ledclock/LedClockApplication.java
