@@ -1,37 +1,311 @@
 # WebFX Demos
 
-A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a few additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
+A space to host the WebFX demos ([WebFX][webfx-repo] is a Java-based cross-platform solution that can target 7 platforms - including the Web - from a single application source code base).
+
+## Featured demos
+
+In addition to the Web, our featured demos are also published on Google Play and App Store. As mentioned in the [platform][webfx-repo] table, these mobile versions require a 64-bit device (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
+
+### Graphical demos
+
+These demos have been written using open-source libraries ported to WebFX (links to original libraries below).
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" valign="bottom">
+    <a href="https://tallycounter.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
+        Tally Counter<br/><a href="https://github.com/HanSolo/odometer">(Odometer)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tallycounter">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://moderngauge.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
+        Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.moderngauge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://enzoclocks.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
+        Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.enzoclocks">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="bottom">
+    <a href="https://demofx.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
+        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.demofx">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://raytracer.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
+        Ray Tracer<br/><a href="https://github.com/steventrowland/JavaFX-Ray-Tracer">
+(JavaFX-Ray-Tracer)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.raytracer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://mandelbrot.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
+        Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.mandelbrot">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+
+</tr>
+
+</table>
+
+</div>
+
+### Games
+
+These open-source games have been ported to WebFX (authors & links to original games below).
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" valign="bottom">
+    <a href="https://fx2048.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
+        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://tetris.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tetris">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+</tr><tr>
+
+<td align="center" valign="bottom">
+    <a href="https://jarkanoid.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.jarkanoid">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+<td align="center" valign="bottom">
+    <a href="https://spacefx.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
+          <img src="browser-play.svg"/>
+        </picture>
+    </a><br/>
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.spacefx">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
+          <img src="google-play.svg"/>
+        </picture>
+    </a>
+    <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="app-store-dark.svg"/>
+          <img src="app-store.svg"/>
+        </picture>
+    </a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+## All demos
+
+This table lists all WebFX demos (featured demos + a few additional demos) with their links to the source code. You can check out their repositories, and rebuild each platform on your local machine (instructions given in the [documentation](https://docs.webfx.dev/#_building_your_application)).
 
 <div align="center">
 
-| Live Demo                                                   |          Category           |                    Java file                     |                   Repository                    |                                           WebFX library                                            |                                                        Credits                                                        |
-|-------------------------------------------------------------|:---------------------------:|:------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| Website                                                     |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
-| [Colorful Circles](https://colorfulcircles.webfx.dev)       |            Basic            |  [Java file][webfx-colorfulcircles-code-link] ⭐  |  [Repository][webfx-colorfulcircles-repo-link]  |                                                                                                    |                   [Oracle](https://docs.oracle.com/javafx/2/get_started/ColorfulCircles.java.html)                    |
-| [Tally Counter][webfx-tallycounter-demo-link]               |       Custom controls       |   [Java file][webfx-tallycounter-code-link] ⭐    |   [Repository][webfx-tallycounter-repo-link]    |                    [Odometer](https://github.com/webfx-libs/webfx-lib-odometer)                    |                                    [HanSolo](https://github.com/HanSolo/odometer)                                     |
-| [Modern Gauge][webfx-moderngauge-demo-link]                 |       Custom controls       |    [Java file][webfx-moderngauge-code-link] ⭐    |    [Repository][webfx-moderngauge-repo-link]    |                                     [Medusa][webfx-lib-medusa]                                     |                                     [HanSolo](https://github.com/HanSolo/Medusa)                                      |
-| [Enzo Clocks][webfx-enzoclocks-demo-link]                   |       Custom controls       |     [Java file][webfx-enzoclocks-code-link]      |    [Repository][webfx-enzoclocks-repo-link]     | [Enzo](https://github.com/webfx-libs/webfx-lib-enzo)<br/>[Circle Packing][webfx-lib-circlepacking] |                               [HanSolo](https://bitbucket.org/hansolo/enzo/src/master/)                               |
-| [FX2048][webfx-fx2048-demo-link]                            |            Games            |       [Java file][webfx-fx2048-code-link]        |      [Repository][webfx-fx2048-repo-link]       |                                                                                                    |                                 [Bruno Borges](https://github.com/brunoborges/fx2048)                                 |                                                                           |
-| [SpaceFX][webfx-spacefx-demo-link] ⓒ ♪                      |            Games            |       [Java file][webfx-spacefx-code-link]       |      [Repository][webfx-spacefx-repo-link]      |                                                                                                    |                                     [HanSolo](https://github.com/HanSolo/SpaceFX)                                     |
-| [DemoFX][webfx-demofx-demo-link] ⓒ ♪                        |          Animation          |      [Java file][webfx-demofx-code-link] ⭐       |      [Repository][webfx-demofx-repo-link]       |                                     [DemoFX][webfx-lib-demofx]                                     |                                             [Chris Newland][demofx-repo]                                              |
-| [Ray Tracer][webfx-raytracer-demo-link] ⊕                   |         Web workers         |      [Java file][webfx-raytracer-code-link]      |     [Repository][webfx-raytracer-repo-link]     |                           [Tracer framework][webfx-lib-tracerframework]                            |                       [Steven T. Rowland](https://github.com/steventrowland/JavaFX-Ray-Tracer)                        | 
-| [Mandelbrot][webfx-mandelbrot-demo-link] ⊕                  |         WebAssembly         |     [Java file][webfx-mandelbrot-code-link]      |    [Repository][webfx-mandelbrot-repo-link]     |                           [Tracer framework][webfx-lib-tracerframework]                            |                  [David J. Eck](https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/)                   |
-| Additional demos                                            |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
-| [Tetris][webfx-tetris-demo-link] ⓒ ♪                        |            Games            |       [Java file][webfx-tetris-code-link]        |      [Repository][webfx-tetris-repo-link]       |                                                                                                    |                                     [HanSolo](https://github.com/HanSolo/tetris)                                      |
-| [JArkanoid][webfx-jarkanoid-demo-link] ⓒ ♪                  |            Games            |      [Java file][webfx-jarkanoid-code-link]      |     [Repository][webfx-jarkanoid-repo-link]     |                                                                                                    |                                    [HanSolo](https://github.com/HanSolo/jArkanoid)                                    |
-| [Particles][webfx-particles-demo-link] ⓒ                    |            Basic            |    [Java file️][webfx-particles-code-link] ⭐     |     [Repository][webfx-particles-repo-link]     |                                                                                                    |                       [Sketch.js](https://soulwire.github.io/sketch.js/examples/particles.html)                       |
-| [Mostly Fluid][webfx-mostlyfluid-demo-link]                 | Basic<br/>Responsive design |    [Java file][webfx-mostlyfluid-code-link] ⭐    |    [Repository][webfx-mostlyfluid-repo-link]    |                                                                                                    |  [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)  |
-| [Medusa Clock][webfx-medusaclock-demo-link]                 |       Custom controls       |    [Java file][webfx-medusaclock-code-link] ⭐    |    [Repository][webfx-medusaclock-repo-link]    |                                     [Medusa][webfx-lib-medusa]                                     |                                     [HanSolo](https://github.com/HanSolo/Medusa)                                      |                                                   
-| WebFX Extras                                                |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
-| [Files][webfx-files-demo-link] ⊕ ♪                          |         Local files         |        [Java file][webfx-files-code-link]        |       [Repository][webfx-files-repo-link]       |             [FilePicker][webfx-extras-filepicker-link]<br/>[DemoFX][webfx-lib-demofx]              |                                                                                                                       | |
-| [FlexBox][webfx-flexbox-demo-link]                          |      Responsive design      |      [Java file][webfx-flexbox-code-link] ⭐      |      [Repository][webfx-flexbox-repo-link]      |                                [FlexBox][webfx-extras-flexbox-link]                                |                                                                                                                       | |
-| [Led Clock][webfx-ledclock-demo-link] ⓒ                     |       Custom controls       |     [Java file][webfx-ledclock-code-link] ⭐      |     [Repository][webfx-ledclock-repo-link]      |                    [Led][webfx-extras-led-link]<br/>[Medusa][webfx-lib-medusa]                     | [HanSolo](https://github.com/HanSolo/medusa/blob/master/src/main/java/eu/hansolo/medusa/skins/MorphingClockSkin.java) |
-| [Led Packing][webfx-ledpacking-demo-link]                   |      Responsive design      |    [Java file][webfx-ledpacking-code-link] ⭐     |    [Repository][webfx-ledpacking-repo-link]     |             [Led][webfx-extras-led-link]<br/>[Circle Packing][webfx-lib-circlepacking]             |                                                                                                                       |
+| Web live Demo                                         |          Category           |                    Java file                     |                   Repository                    |                                           WebFX library                                            |                                                        Credits                                                        |
+|-------------------------------------------------------|:---------------------------:|:------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+| Website                                               |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
+| [Colorful Circles](https://colorfulcircles.webfx.dev) |            Basic            |  [Java file][webfx-colorfulcircles-code-link] ⭐  |  [Repository][webfx-colorfulcircles-repo-link]  |                                                                                                    |                   [Oracle](https://docs.oracle.com/javafx/2/get_started/ColorfulCircles.java.html)                    |
+| [Tally Counter][webfx-tallycounter-demo-link]         |       Custom controls       |   [Java file][webfx-tallycounter-code-link] ⭐    |   [Repository][webfx-tallycounter-repo-link]    |                    [Odometer](https://github.com/webfx-libs/webfx-lib-odometer)                    |                                    [HanSolo](https://github.com/HanSolo/odometer)                                     |
+| [Modern Gauge][webfx-moderngauge-demo-link]           |       Custom controls       |    [Java file][webfx-moderngauge-code-link] ⭐    |    [Repository][webfx-moderngauge-repo-link]    |                                     [Medusa][webfx-lib-medusa]                                     |                                     [HanSolo](https://github.com/HanSolo/Medusa)                                      |
+| [Enzo Clocks][webfx-enzoclocks-demo-link]             |       Custom controls       |     [Java file][webfx-enzoclocks-code-link]      |    [Repository][webfx-enzoclocks-repo-link]     | [Enzo](https://github.com/webfx-libs/webfx-lib-enzo)<br/>[Circle Packing][webfx-lib-circlepacking] |                               [HanSolo](https://bitbucket.org/hansolo/enzo/src/master/)                               |
+| [FX2048][webfx-fx2048-demo-link]                      |            Games            |       [Java file][webfx-fx2048-code-link]        |      [Repository][webfx-fx2048-repo-link]       |                                                                                                    |                                 [Bruno Borges](https://github.com/brunoborges/fx2048)                                 |                                                                           |
+| [SpaceFX][webfx-spacefx-demo-link] ⓒ ♪                |            Games            |       [Java file][webfx-spacefx-code-link]       |      [Repository][webfx-spacefx-repo-link]      |                                                                                                    |                                     [HanSolo](https://github.com/HanSolo/SpaceFX)                                     |
+| [DemoFX][webfx-demofx-demo-link] ⓒ ♪                  |          Animation          |      [Java file][webfx-demofx-code-link] ⭐       |      [Repository][webfx-demofx-repo-link]       |                                     [DemoFX][webfx-lib-demofx]                                     |                                             [Chris Newland][demofx-repo]                                              |
+| [Ray Tracer][webfx-raytracer-demo-link] ⊕             |         Web workers         |      [Java file][webfx-raytracer-code-link]      |     [Repository][webfx-raytracer-repo-link]     |                           [Tracer framework][webfx-lib-tracerframework]                            |                       [Steven T. Rowland](https://github.com/steventrowland/JavaFX-Ray-Tracer)                        | 
+| [Mandelbrot][webfx-mandelbrot-demo-link] ⊕            |         WebAssembly         |     [Java file][webfx-mandelbrot-code-link]      |    [Repository][webfx-mandelbrot-repo-link]     |                           [Tracer framework][webfx-lib-tracerframework]                            |                  [David J. Eck](https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/)                   |
+| Additional demos                                      |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
+| [Tetris][webfx-tetris-demo-link] ⓒ ♪                  |            Games            |       [Java file][webfx-tetris-code-link]        |      [Repository][webfx-tetris-repo-link]       |                                                                                                    |                                     [HanSolo](https://github.com/HanSolo/tetris)                                      |
+| [JArkanoid][webfx-jarkanoid-demo-link] ⓒ ♪            |            Games            |      [Java file][webfx-jarkanoid-code-link]      |     [Repository][webfx-jarkanoid-repo-link]     |                                                                                                    |                                    [HanSolo](https://github.com/HanSolo/jArkanoid)                                    |
+| [Particles][webfx-particles-demo-link] ⓒ              |            Basic            |    [Java file️][webfx-particles-code-link] ⭐     |     [Repository][webfx-particles-repo-link]     |                                                                                                    |                       [Sketch.js](https://soulwire.github.io/sketch.js/examples/particles.html)                       |
+| [Mostly Fluid][webfx-mostlyfluid-demo-link]           | Basic<br/>Responsive design |    [Java file][webfx-mostlyfluid-code-link] ⭐    |    [Repository][webfx-mostlyfluid-repo-link]    |                                                                                                    |  [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)  |
+| [Medusa Clock][webfx-medusaclock-demo-link]           |       Custom controls       |    [Java file][webfx-medusaclock-code-link] ⭐    |    [Repository][webfx-medusaclock-repo-link]    |                                     [Medusa][webfx-lib-medusa]                                     |                                     [HanSolo](https://github.com/HanSolo/Medusa)                                      |                                                   
+| WebFX Extras                                          |                             |                                                  |                                                 |                                                                                                    |                                                                                                                       |
+| [Files][webfx-files-demo-link] ⊕ ♪                    |         Local files         |        [Java file][webfx-files-code-link]        |       [Repository][webfx-files-repo-link]       |             [FilePicker][webfx-extras-filepicker-link]<br/>[DemoFX][webfx-lib-demofx]              |                                                                                                                       | |
+| [FlexBox][webfx-flexbox-demo-link]                    |      Responsive design      |      [Java file][webfx-flexbox-code-link] ⭐      |      [Repository][webfx-flexbox-repo-link]      |                                [FlexBox][webfx-extras-flexbox-link]                                |                                                                                                                       | |
+| [Led Clock][webfx-ledclock-demo-link] ⓒ               |       Custom controls       |     [Java file][webfx-ledclock-code-link] ⭐      |     [Repository][webfx-ledclock-repo-link]      |                    [Led][webfx-extras-led-link]<br/>[Medusa][webfx-lib-medusa]                     | [HanSolo](https://github.com/HanSolo/medusa/blob/master/src/main/java/eu/hansolo/medusa/skins/MorphingClockSkin.java) |
+| [Led Packing][webfx-ledpacking-demo-link]             |      Responsive design      |    [Java file][webfx-ledpacking-code-link] ⭐     |    [Repository][webfx-ledpacking-repo-link]     |             [Led][webfx-extras-led-link]<br/>[Circle Packing][webfx-lib-circlepacking]             |                                                                                                                       |
 
   ⓒ *Canvas*   ⊕ *Canvas + nodes*   ♪ Sound   ⭐️ *Single source file demo*
 
 </div>
 
+If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
 
 [webfx-repo]: https://github.com/webfx-project/webfx
 [webfx-website]: https://webfx.dev
