@@ -1,10 +1,10 @@
 # WebFX Demos
 
-A space to host the WebFX demos ([WebFX][webfx-repo] is a Java-based cross-platform solution that can target 7 client platforms - including the Web - from a single application source code base).
+A space to host the WebFX demos. ([WebFX][webfx-repo] is a cross-platform solution that can target 7 client platforms - including the Web - all from a single application source code base written in Java & JavaFX).
 
 ## Featured demos
 
-In addition to the Web, our featured demos are also published on Google Play and App Store. These mobile versions require a 64-bit device (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
+In addition to the Web, our featured demos are also published on Google Play and App Store. You can install them on a 64-bit device (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
 
 ### Graphical demos
 
