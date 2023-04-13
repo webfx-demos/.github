@@ -1,10 +1,10 @@
 # WebFX Demos
 
-A space to host the WebFX demos ([WebFX][webfx-repo] is a Java-based cross-platform solution that can target 7 platforms - including the Web - from a single application source code base).
+A space to host the WebFX demos ([WebFX][webfx-repo] is a Java-based cross-platform solution that can target 7 client platforms - including the Web - from a single application source code base).
 
 ## Featured demos
 
-In addition to the Web, our featured demos are also published on Google Play and App Store. As mentioned in the [platform][webfx-repo] table, these mobile versions require a 64-bit device (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
+In addition to the Web, our featured demos are also published on Google Play and App Store. These mobile versions require a 64-bit device (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
 
 ### Graphical demos
 
@@ -217,8 +217,6 @@ These open-source games have been ported to WebFX (authors & links to original g
     </a>
 </td>
 
-</tr><tr>
-
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
@@ -304,8 +302,6 @@ This table lists all WebFX demos (featured demos + a few additional demos) with 
   ⓒ *Canvas*   ⊕ *Canvas + nodes*   ♪ Sound   ⭐️ *Single source file demo*
 
 </div>
-
-If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
 
 [webfx-repo]: https://github.com/webfx-project/webfx
 [webfx-website]: https://webfx.dev
