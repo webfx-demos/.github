@@ -4,7 +4,7 @@ A space to host the WebFX demos ([WebFX][webfx-repo] is a cross-platform solutio
 
 ## Featured demos
 
-In addition to the Web, our featured demos are also published on Google Play and App Store. You can install them on 64-bit devices (if you're not sure about your device, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
+In addition to be directly playable in the browser, these featured demos are also published on Google Play and App Store. You can install them on 64-bit devices (if you're not sure if your device is 32-bit or 64-bit, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
 
 ### Graphical demos
 
@@ -219,7 +219,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid.webp"/><br/>
         JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
