@@ -94,7 +94,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://demofx.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX-310x208.webp"/><br/>
         DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
     </a>
     <a href="https://demofx.webfx.dev">
@@ -119,7 +119,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://raytracer.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer-310x208.webp"/><br/>
         Ray Tracer<br/><a href="https://github.com/steventrowland/JavaFX-Ray-Tracer">
 (JavaFX-Ray-Tracer)</a><br/><br/>
     </a>
@@ -145,7 +145,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://mandelbrot.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot-310x202.gif"/><br/>
         Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/>
     </a>
     <a href="https://mandelbrot.webfx.dev">
