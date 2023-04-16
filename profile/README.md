@@ -8,7 +8,7 @@ In addition to be directly playable in the browser, the featured demos are also 
 
 ### Graphical demos
 
-These demos have been written using open-source libraries ported to WebFX (links to original libraries in brackets below).
+These graphical demos have been written using open-source libraries ported to WebFX (links to original libraries in brackets below).
 
 <div align="center">
 <table>
@@ -177,24 +177,24 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 ### Games
 
-These open-source games have been ported to WebFX (authors & links to original games below).
+These games have been ported to WebFX from open-source repositories (authors & links to original games below).
 
 <div align="center">
 <table>
 <tr>
 
 <td align="center" valign="bottom">
-    <a href="https://fx2048.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048-224x224.webp"/><br/>
-        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
+    <a href="https://tetris.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris-224x224.webp"/><br/>
+        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
     </a>
-    <a href="https://fx2048.webfx.dev">
+    <a href="https://tetris.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
         </picture>
     </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048">
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tetris">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
           <img src="google-play.svg"/>
@@ -209,17 +209,17 @@ These open-source games have been ported to WebFX (authors & links to original g
 </td>
 
 <td align="center" valign="bottom">
-    <a href="https://tetris.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris-224x224.webp"/><br/>
-        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+    <a href="https://fx2048.webfx.dev">
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048-224x224.webp"/><br/>
+        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
     </a>
-    <a href="https://tetris.webfx.dev">
+    <a href="https://fx2048.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
         </picture>
     </a><br/>
-    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.tetris">
+    <a href="https://play.google.com/store/apps/details?id=dev.webfx.demo.fx2048">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="google-play-dark.svg"/>
           <img src="google-play.svg"/>
