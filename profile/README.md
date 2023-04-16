@@ -16,7 +16,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://tallycounter.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter-310x208.webp"/><br/>
         Tally Counter<br/><a href="https://github.com/HanSolo/odometer">(Odometer)</a><br/><br/>
     </a>
     <a href="https://tallycounter.webfx.dev">
