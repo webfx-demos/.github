@@ -4,7 +4,7 @@ A space to host the WebFX demos ([WebFX][webfx-repo] is a cross-platform solutio
 
 ## Featured demos
 
-In addition to be directly playable in the browser, these featured demos are also published on Google Play and App Store. You can install them on 64-bit devices (if you're not sure if your device is 32-bit or 64-bit, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
+In addition to be directly playable in the browser, the featured demos are also published on Google Play and App Store. You can install them on 64-bit devices (if you're not sure if your device is 32-bit or 64-bit, check out this [list](https://iosref.com/ram-processor) for iOS, or this [app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker&hl=en&gl=US) for Android). 
 
 ### Graphical demos
 
@@ -289,9 +289,9 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 </div>
 
-## All demos
+## Additional demos
 
-This table lists all WebFX demos (featured demos + a few additional demos) with their links to the source code. You can check out their repositories, and rebuild each platform on your local machine (instructions given in the [documentation](https://docs.webfx.dev/#_building_your_application)).
+This table lists all WebFX demos (featured demos + a few additional demos) with links to their source code. Demos with a ⭐ are single source file demos, so you can just browse the Java file. For all demos, you can also check out the repository, and rebuild each platform runtime on your local machine (instructions given in the [documentation](https://docs.webfx.dev/#_building_your_application)). These repositories also contain a GitHub workflow to build all clients for all platforms.
 
 <div align="center">
 
