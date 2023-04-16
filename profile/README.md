@@ -260,7 +260,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX-224x224.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX-new-224x264.webp"/><br/>
         SpaceFX ♪<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://spacefx.webfx.dev">
