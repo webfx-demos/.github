@@ -185,7 +185,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 <td align="center" valign="bottom">
     <a href="https://fx2048.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048-224x224.webp"/><br/>
         FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
     </a>
     <a href="https://fx2048.webfx.dev">
@@ -210,7 +210,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 <td align="center" valign="bottom">
     <a href="https://tetris.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris-224x224.webp"/><br/>
         Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://tetris.webfx.dev">
@@ -235,7 +235,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid-224x264.webp"/><br/>
         JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://jarkanoid.webfx.dev">
@@ -260,7 +260,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX-224x224.webp"/><br/>
         SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://spacefx.webfx.dev">
