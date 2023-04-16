@@ -18,6 +18,8 @@ These demos have been written using open-source libraries ported to WebFX (links
     <a href="https://tallycounter.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/TallyCounter.webp"/><br/>
         Tally Counter<br/><a href="https://github.com/HanSolo/odometer">(Odometer)</a><br/><br/>
+    </a>
+    <a href="https://tallycounter.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -40,7 +42,9 @@ These demos have been written using open-source libraries ported to WebFX (links
 <td align="center" valign="bottom">
     <a href="https://moderngauge.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
-        Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)</a><br/><br/>
+        Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)<br/><br/></a>
+    </a>
+    <a href="https://moderngauge.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -63,7 +67,9 @@ These demos have been written using open-source libraries ported to WebFX (links
 <td align="center" valign="bottom">
     <a href="https://enzoclocks.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
-        Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)</a><br/><br/>
+        Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)<br/><br/></a>
+    </a>
+    <a href="https://enzoclocks.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -89,7 +95,9 @@ These demos have been written using open-source libraries ported to WebFX (links
 <td align="center" valign="bottom">
     <a href="https://demofx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX.webp"/><br/>
-        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
+        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://demofx.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -113,7 +121,9 @@ These demos have been written using open-source libraries ported to WebFX (links
     <a href="https://raytracer.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/RayTracer.webp"/><br/>
         Ray Tracer<br/><a href="https://github.com/steventrowland/JavaFX-Ray-Tracer">
-(JavaFX-Ray-Tracer)</a><br/><br/>
+(JavaFX-Ray-Tracer)</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://raytracer.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -136,7 +146,9 @@ These demos have been written using open-source libraries ported to WebFX (links
 <td align="center" valign="bottom">
     <a href="https://mandelbrot.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/Mandelbrot.webp"/><br/>
-        Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/>
+        Mandelbrot<br/><a href="https://math.hws.edu/eck/js/mandelbrot/java/xMandelbrotSource-1-2/">(Swing Mandelbrot)</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://mandelbrot.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -174,7 +186,9 @@ These open-source games have been ported to WebFX (authors & links to original g
 <td align="center" valign="bottom">
     <a href="https://fx2048.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/FX2048.webp"/><br/>
-        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/>
+        FX2048<br/><a href="https://github.com/brunoborges/fx2048">Bruno Borges</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://fx2048.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -197,7 +211,9 @@ These open-source games have been ported to WebFX (authors & links to original g
 <td align="center" valign="bottom">
     <a href="https://tetris.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris.webp"/><br/>
-        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://tetris.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -220,7 +236,9 @@ These open-source games have been ported to WebFX (authors & links to original g
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid.webp"/><br/>
-        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
+        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://jarkanoid.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
@@ -243,7 +261,9 @@ These open-source games have been ported to WebFX (authors & links to original g
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX.webp"/><br/>
-        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
+        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/><br/><br/>
+    </a>
+    <a href="https://spacefx.webfx.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="browser-play-dark.svg"/>
           <img src="browser-play.svg"/>
