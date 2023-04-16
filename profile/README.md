@@ -66,7 +66,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://enzoclocks.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/EnzoClocks-310x208.webp"/><br/>
         Enzo Clocks<br/><a href="https://bitbucket.org/hansolo/enzo/src/master/">(Enzo)<br/><br/></a>
     </a>
     <a href="https://enzoclocks.webfx.dev">
@@ -291,7 +291,7 @@ These open-source games have been ported to WebFX (authors & links to original g
 
 ## Additional demos
 
-This table lists all WebFX demos (featured demos + a few additional demos) with links to their source code. Demos with a ⭐ are single source file demos, so you can just browse the Java file. For all demos, you can also check out the repository, and rebuild each platform runtime on your local machine (instructions given in the [documentation](https://docs.webfx.dev/#_building_your_application)). These repositories also contain a GitHub workflow to build all clients for all platforms.
+This table lists all WebFX demos (featured demos + a few additional demos) with links to their source code. Demos with a ⭐ are single source file demos, so you can just browse the Java file to see the source code. For all demos, you can also check out the repository, and rebuild each platform runtime on your local machine (instructions given in the [documentation](https://docs.webfx.dev/#_building_your_application)). These repositories also contain a GitHub workflow to build all clients for all platforms in one go.
 
 <div align="center">
 
