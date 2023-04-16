@@ -8,7 +8,7 @@ In addition to be directly playable in the browser, the featured demos are also 
 
 ### Graphical demos
 
-These demos have been written using open-source libraries ported to WebFX (links to original libraries below).
+These demos have been written using open-source libraries ported to WebFX (links to original libraries in brackets below).
 
 <div align="center">
 <table>
@@ -41,7 +41,7 @@ These demos have been written using open-source libraries ported to WebFX (links
 
 <td align="center" valign="bottom">
     <a href="https://moderngauge.webfx.dev">
-        <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge.webp"/><br/>
+        <img src="https://webfx-demos.github.io/webfx-demos-videos/ModernGauge-310x208.webp"/><br/>
         Modern Gauge<br/><a href="https://github.com/HanSolo/Medusa">(Medusa)<br/><br/></a>
     </a>
     <a href="https://moderngauge.webfx.dev">
