@@ -95,7 +95,7 @@ These graphical demos have been written using open-source libraries ported to We
 <td align="center" valign="bottom">
     <a href="https://demofx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/DemoFX-310x208.webp"/><br/>
-        DemoFX<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
+        DemoFX ♪<br/><a href="https://github.com/chriswhocodes/DemoFX">(DemoFX)</a><br/><br/>
     </a>
     <a href="https://demofx.webfx.dev">
         <picture>
@@ -186,7 +186,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 <td align="center" valign="bottom">
     <a href="https://tetris.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/Tetris-224x224.webp"/><br/>
-        Tetris<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
+        Tetris ♪<br/><a href="https://github.com/HanSolo/tetris">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://tetris.webfx.dev">
         <picture>
@@ -236,7 +236,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 <td align="center" valign="bottom">
     <a href="https://jarkanoid.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/JArkanoid-224x264.webp"/><br/>
-        JArkanoid<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
+        JArkanoid ♪<br/><a href="https://github.com/HanSolo/jArkanoid">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://jarkanoid.webfx.dev">
         <picture>
@@ -261,7 +261,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX-224x224.webp"/><br/>
-        SpaceFX<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
+        SpaceFX ♪<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a><br/><br/>
     </a>
     <a href="https://spacefx.webfx.dev">
         <picture>
