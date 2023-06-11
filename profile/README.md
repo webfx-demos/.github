@@ -1,6 +1,6 @@
 # WebFX Demos
 
-A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus a few additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
+A space to host [WebFX][webfx-repo] demos. You will find all the demos presented on the [website][webfx-website], plus some additional demos, with their live links and source codes. If you have another WebFX demo you would like to link here, you can [contact us][webfx-contact], and we will add it to the list.
 
 <div align="center">
 
@@ -21,6 +21,7 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 | [JArkanoid][webfx-jarkanoid-demo-link] ⓒ ♪            |            Games            |     [Java file][webfx-jarkanoid-code-link]     |    [Repository][webfx-jarkanoid-repo-link]    |                                                                                                    |                                    [HanSolo](https://github.com/HanSolo/jArkanoid)                                    |
 | [Pac-Man][webfx-pacman-demo-link] ⓒ ♪                 |            Games            |      [Java file][webfx-pacman-code-link]       |     [Repository][webfx-pacman-repo-link]      |                                                                                                    |                           [Armin Reichert](https://github.com/armin-reichert/pacman-javafx)                           |
 | [Ms. Pac-Man][webfx-mspacman-demo-link] ⓒ ♪           |            Games            |      [Java file][webfx-pacman-code-link]       |     [Repository][webfx-pacman-repo-link]      |                                                                                                    |                           [Armin Reichert](https://github.com/armin-reichert/pacman-javafx)                           |
+| [Food Dice][webfx-fooddice-demo-link] ⓒ ♪             |            Games            |     [Java file][webfx-fooddice-code-link]      |    [Repository][webfx-fooddice-repo-link]     |                                                                                                    |                                [OrangoMango](https://github.com/OrangoMango/FoodDice)                                 |
 | [Particles][webfx-particles-demo-link] ⓒ              |            Basic            |   [Java file️][webfx-particles-code-link] ⭐    |    [Repository][webfx-particles-repo-link]    |                                                                                                    |                       [Sketch.js](https://soulwire.github.io/sketch.js/examples/particles.html)                       |
 | [Mostly Fluid][webfx-mostlyfluid-demo-link]           | Basic<br/>Responsive design |   [Java file][webfx-mostlyfluid-code-link] ⭐   |   [Repository][webfx-mostlyfluid-repo-link]   |                                                                                                    |  [*Anonymous*](http://underpop.online.fr/w/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)  |
 | [Medusa Clock][webfx-medusaclock-demo-link]           |       Custom controls       |   [Java file][webfx-medusaclock-code-link] ⭐   |   [Repository][webfx-medusaclock-repo-link]   |                                     [Medusa][webfx-lib-medusa]                                     |                                     [HanSolo](https://github.com/HanSolo/Medusa)                                      |                                                   
@@ -70,6 +71,9 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 [webfx-pacman-code-link]: https://github.com/webfx-demos/webfx-demo-pacman/blob/webfx/pacman-ui-fx/src/main/java/de/amr/games/pacman/ui/fx/app/GameApp.java
 [webfx-pacman-repo-link]: https://github.com/webfx-demos/webfx-demo-pacman/tree/webfx
 [webfx-mspacman-demo-link]: https://mspacman.webfx.dev
+[webfx-fooddice-demo-link]: https://fooddice.webfx.dev
+[webfx-fooddice-code-link]: https://github.com/webfx-demos/webfx-demo-fooddice/blob/webfx/webfx-demo-fooddice-application/src/main/java/com/orangomango/food/MainApplication.java
+[webfx-fooddice-repo-link]: https://github.com/webfx-demos/webfx-demo-fooddice/tree/webfx
 [webfx-demofx-demo-link]: https://demofx.webfx.dev
 [webfx-demofx-repo-link]: https://github.com/webfx-demos/webfx-demo-demofx
 [webfx-demofx-code-link]: https://github.com/webfx-demos/webfx-demo-demofx/blob/main/webfx-demo-demofx-application/src/main/java/dev/webfx/demo/demofx/DemoFXApplication.java
