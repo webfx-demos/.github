@@ -58,7 +58,7 @@ A space to host [WebFX][webfx-repo] demos. You will find all the demos presented
 [webfx-enzoclocks-code-link]: https://github.com/webfx-demos/webfx-demo-enzoclocks/blob/main/webfx-demo-enzoclocks-application/src/main/java/dev/webfx/demo/enzoclocks/EnzoClocksApplication.java
 [webfx-enzoclocks-repo-link]: https://github.com/webfx-demos/webfx-demo-enzoclocks
 [webfx-fx2048-demo-link]: https://fx2048.webfx.dev
-[webfx-fx2048-repo-link]: https://github.com/webfx-demos/webfx-demo-fx2048
+[webfx-fx2048-repo-link]: https://github.com/webfx-demos/webfx-demo-fx2048/tree/webfx
 [webfx-fx2048-code-link]: https://github.com/webfx-demos/webfx-demo-fx2048/blob/webfx/webfx-demo-fx2048-application/src/main/java/io/fxgame/game2048/Game2048.java
 [webfx-fx2048-release-link]: https://github.com/webfx-demos/webfx-demo-fx2048/releases
 [webfx-spacefx-demo-link]: https://spacefx.webfx.dev
