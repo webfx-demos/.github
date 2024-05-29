@@ -74,7 +74,7 @@ These graphical demos have been written using open-source libraries ported to We
 </td>
 
 <td align="center" valign="bottom">
-    <a href="https://flexbox.webfx.dev">
+    <a href="https://flexpane.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/FlexPane-310x208.webp"/><br/>
         FlexPane<br/>(using WebFX Extras)<br/><br/>
     </a>
