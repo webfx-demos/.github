@@ -145,14 +145,14 @@ These games have been ported to WebFX from open-source repositories (authors & l
 <td align="center" valign="bottom">
     <a href="https://pacman.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/PacMan-216x264.webp"/><br/>
-        PacMan ♪<br/><a href="https://github.com/armin-reichert/pacman">Armin Reichert</a><br/><br/>
+        PacMan ♪<br/><a href="https://github.com/armin-reichert/webfx-pacman">Armin Reichert</a><br/><br/>
     </a>
 </td>
 
 <td align="center" valign="bottom">
     <a href="https://mspacman.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/MsPacMan-216x264.webp"/><br/>
-        Ms PacMan ♪<br/><a href="https://github.com/armin-reichert/pacman">Armin Reichert</a><br/><br/>
+        Ms PacMan ♪<br/><a href="https://github.com/armin-reichert/webfx-pacman">Armin Reichert</a><br/><br/>
     </a>
 </td>
 
