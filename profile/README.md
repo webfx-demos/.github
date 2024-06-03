@@ -237,7 +237,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 [webfx-fx2048-release-link]: https://github.com/webfx-demos/webfx-demo-fx2048/releases
 [webfx-spacefx-demo-link]: https://spacefx.webfx.dev
 [webfx-spacefx-code-link]: https://github.com/webfx-demos/webfx-demo-spacefx/blob/webfx-new/webfx-demo-spacefx-application/src/main/java/eu/hansolo/spacefx/SpaceFX.java
-[webfx-spacefx-repo-link]: https://github.com/webfx-demos/webfx-demo-spacefx
+[webfx-spacefx-repo-link]: https://github.com/webfx-demos/webfx-demo-spacefx/tree/webfx-new
 [webfx-tetris-demo-link]: https://tetris.webfx.dev
 [webfx-tetris-code-link]: https://github.com/webfx-demos/webfx-demo-tetris/blob/webfx/webfx-demo-tetris-application/src/main/java/eu/hansolo/fx/tetris/Main.java
 [webfx-tetris-repo-link]: https://github.com/webfx-demos/webfx-demo-tetris/tree/webfx
