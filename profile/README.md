@@ -131,7 +131,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 <td align="center" valign="bottom">
     <a href="https://spacefx.webfx.dev">
         <img src="https://webfx-demos.github.io/webfx-demos-videos/SpaceFX-new-224x264.webp"/><br/>
-        SpaceFX (new version) ♪<br/><a href="https://github.com/webfx-demos/webfx-demo-spacefx">Gerrit Grunwald</a> & WebFX<br/><br/>
+        SpaceFX (new version) ♪<br/><a href="https://github.com/HanSolo/SpaceFX">Gerrit Grunwald</a> & WebFX<br/><br/>
     </a>
 </td>
 
@@ -236,7 +236,7 @@ These games have been ported to WebFX from open-source repositories (authors & l
 [webfx-fx2048-code-link]: https://github.com/webfx-demos/webfx-demo-fx2048/blob/webfx/webfx-demo-fx2048-application/src/main/java/io/fxgame/game2048/Game2048.java
 [webfx-fx2048-release-link]: https://github.com/webfx-demos/webfx-demo-fx2048/releases
 [webfx-spacefx-demo-link]: https://spacefx.webfx.dev
-[webfx-spacefx-code-link]: https://github.com/webfx-demos/webfx-demo-spacefx/blob/main/webfx-demo-spacefx-application/src/main/java/eu/hansolo/spacefx/SpaceFX.java
+[webfx-spacefx-code-link]: https://github.com/webfx-demos/webfx-demo-spacefx/blob/webfx-new/webfx-demo-spacefx-application/src/main/java/eu/hansolo/spacefx/SpaceFX.java
 [webfx-spacefx-repo-link]: https://github.com/webfx-demos/webfx-demo-spacefx
 [webfx-tetris-demo-link]: https://tetris.webfx.dev
 [webfx-tetris-code-link]: https://github.com/webfx-demos/webfx-demo-tetris/blob/webfx/webfx-demo-tetris-application/src/main/java/eu/hansolo/fx/tetris/Main.java
