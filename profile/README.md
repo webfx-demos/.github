@@ -86,7 +86,7 @@ These graphical demos have been written using open-source JavaFX libraries porte
 
 </div>
 
-### Games
+## Games
 
 These games have been ported to WebFX from open-source repositories (authors & links to original games below).
 
@@ -159,6 +159,31 @@ These games have been ported to WebFX from open-source repositories (authors & l
 </tr>
 
 </table>
+
+</div>
+
+## TeaVM versions (including WebAssembly)
+
+In addition to the versions above that have been compiled with GWT from the Java source code to JavaScript, you can find below these same demos but compiled with [TeaVM](https://teavm.org), an alternative transpiler that takes the Java bytecode as input and compile it to JavaScript or **WebAssembly**. 
+
+<div align="center">
+
+| Demo             |                       TeaVM  JavaScript                       |                       TeaVM WebAssembly                        |
+|------------------|:-------------------------------------------------------------:|:--------------------------------------------------------------:|
+| Tally Counter    |    [TallyCounter-JS](https://tallycounter-teavm.webfx.dev)    |    [TallyCounter-Wasm](https://tallycounter-wasm.webfx.dev)    |
+| Modern Gauge     |     [ModernGauge-JS](https://moderngauge-teavm.webfx.dev)     |     [ModernGauge-Wasm](https://moderngauge-wasm.webfx.dev)     |
+| Enzo Clocks      |      [EnzoClocks-JS](https://enzoclocks-teavm.webfx.dev)      |      [EnzoClocks-Wasm](https://enzoclocks-wasm.webfx.dev)      |
+| DemoFX ⓒ ♪       |          [DemoFX-JS](https://demofx-teavm.webfx.dev)          |          [DemoFX-Wasm](https://demofx-wasm.webfx.dev)          |
+| Cube ⊕           |            [Cube-JS](https://cube-teavm.webfx.dev)            |            [Cube-Wasm](https://cube-wasm.webfx.dev)            |
+| FX2048           |          [FX2048-JS](https://fx2048-teavm.webfx.dev)          |          [FX2048-Wasm](https://fx2048-wasm.webfx.dev)          |                                                                           
+| Food Dice ⓒ ♪    |        [FoodDice-JS](https://fooddice-teavm.webfx.dev)        |        [FoodDice-Wasm](https://fooddice-wasm.webfx.dev)        |
+| SpaceFX ⓒ ♪      |         [SpaceFX-JS](https://spacefx-teavm.webfx.dev)         |         [SpaceFX-Wasm](https://spacefx-wasm.webfx.dev)         |
+| Tetris ⓒ ♪       |          [Tetris-JS](https://tetris-teavm.webfx.dev)          |          [Tetris-Wasm](https://tetris-wasm.webfx.dev)          |
+| JArkanoid ⓒ ♪    |       [JArkanoid-JS](https://jarkanoid-teavm.webfx.dev)       |       [JArkanoid-Wasm](https://jarkanoid-wasm.webfx.dev)       |
+| Pac-Man ⓒ        |          [PacMan-JS](https://pacman-teavm.webfx.dev)          |          [PacMan-Wasm](https://pacman-wasm.webfx.dev)          |
+| MsPac-Man ⓒ      |         [PacMan-JS](https://mspacman-teavm.webfx.dev)         |         [PacMan-Wasm](https://mspacman-wasm.webfx.dev)         |
+| Colorful Circles | [ColorfulCircles-JS](https://colorfulcircles-teavm.webfx.dev) | [ColorfulCircles-Wasm](https://colorfulcircles-wasm.webfx.dev) |
+| Particles        |       [Particles-JS](https://particles-teavm.webfx.dev)       |      [Particles-Wasm](https://partircles-wasm.webfx.dev)       |
 
 </div>
 
