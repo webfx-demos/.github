@@ -181,7 +181,7 @@ In addition to the versions above that have been compiled with GWT from the Java
 | Tetris ⓒ ♪       |          [Tetris-JS](https://tetris-teavm.webfx.dev)          |          [Tetris-Wasm](https://tetris-wasm.webfx.dev)          |
 | JArkanoid ⓒ ♪    |       [JArkanoid-JS](https://jarkanoid-teavm.webfx.dev)       |       [JArkanoid-Wasm](https://jarkanoid-wasm.webfx.dev)       |
 | Pac-Man ⓒ        |          [PacMan-JS](https://pacman-teavm.webfx.dev)          |          [PacMan-Wasm](https://pacman-wasm.webfx.dev)          |
-| MsPac-Man ⓒ      |         [PacMan-JS](https://mspacman-teavm.webfx.dev)         |         [PacMan-Wasm](https://mspacman-wasm.webfx.dev)         |
+| MsPac-Man ⓒ      |        [MsPacMan-JS](https://mspacman-teavm.webfx.dev)        |        [MsPacMan-Wasm](https://mspacman-wasm.webfx.dev)        |
 | Colorful Circles | [ColorfulCircles-JS](https://colorfulcircles-teavm.webfx.dev) | [ColorfulCircles-Wasm](https://colorfulcircles-wasm.webfx.dev) |
 | Particles        |       [Particles-JS](https://particles-teavm.webfx.dev)       |      [Particles-Wasm](https://partircles-wasm.webfx.dev)       |
 
